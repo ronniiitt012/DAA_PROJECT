@@ -1,0 +1,10 @@
+{
+  "name": "news-feed-ranking",
+  "version": "1.0.0",
+  "description": "Personalized News Feed Ranking System using Heap, Sorting, and Greedy Algorithms",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {}
+}
